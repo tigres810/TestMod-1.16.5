@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tmod:ingot_flux"
+        },
+        {
+            "item": "tmod:ingot_flux"
+        },
+        {
+            "item": "tmod:ingot_flux"
+        }
+    ],
+    "result": {
+        "item": "tmod:dust_flux",
+        "count": 1
+    },
+    "group": "dustfluxcraft"
+}

@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"tmod:flux_fluid_still",
+		"tmod:flux_fluid_flow"
+	]
+}

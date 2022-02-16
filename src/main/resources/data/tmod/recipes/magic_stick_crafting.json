@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " tT",
+        " /C",
+        "P  "
+    ],
+    "key": {
+        "t": {
+            "item": "tmod:ingot_flux"
+        },
+        "T": {
+            "item": "tmod:small_glass"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        },
+        "P": {
+            "item": "minecraft:purple_dye"
+        }
+    },
+    "result": {
+        "item": "tmod:magic_stick",
+        "count": 1
+    }
+}

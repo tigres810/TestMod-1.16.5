@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tmod:flux_ore"
+  },
+  "result": "tmod:ingot_flux",
+  "experience": 6.0,
+  "cookingtime": 600
+}

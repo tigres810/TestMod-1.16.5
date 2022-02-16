@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "#T#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        },
+        "T": {
+            "item": "tmod:small_glass"
+        }
+    },
+    "result": {
+        "item": "tmod:plantenergizer_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "s s",
+    "s s",
+    "sws"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:stone"
+    },
+    "w":
+    {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result":
+  {
+    "item": "tmod:cauldron_block",
+    "count": 1
+  }
+}

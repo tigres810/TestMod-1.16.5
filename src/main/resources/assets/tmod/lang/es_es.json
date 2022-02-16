@@ -1,0 +1,53 @@
+{
+	//Fluids
+	"item.tmod.flux_fluid_bucket": "Cubo de flux",
+	
+	//Blocks
+	"block.tmod.test_block": "Bloque de prueba",
+	"block.tmod.fluidtank_block": "Tanque de fluidos",
+	"block.tmod.energydispenser_block": "Dispensador de energia",
+	"block.tmod.cauldron_block": "Caldero magico",
+	"block.tmod.energymachinecharger_block": "Cable de maquinas",
+	"block.tmod.fluiddispenser_block": "Dispensador de fluido",
+	"block.tmod.plantenergizer_block": "Vitalizador de plantas",
+	"block.tmod.fluidjar_block": "Tarro de fluidos",
+	"block.tmod.creativeenergydispenser_block": "Dispensador de energia creativo",
+	
+	//Ore Blocks
+	"block.tmod.flux_ore": "Mineral de flux",
+	
+	//Flowers
+	"block.tmod.flux_flower": "Flor de flux",
+	
+	//Items
+	"item.tmod.testitem": "Item de prueba",
+	"item.tmod.information_tablet": "Tableta informativa",
+	"item.tmod.magic_stick": "Varita magica",
+	"item.tmod.small_glass": "Cristal diminuto",
+	"item.tmod.mortarnpestle": "Mortero y maja",
+	
+	//Ores
+	"item.tmod.ingot_flux": "Lingote de flux",
+	
+	//Dust
+	"item.tmod.dust_flux": "Polvo de flux",
+	
+	//Tabs
+	"itemGroup.testTab": "TestMod",
+	
+	//Gui
+	"gui.title": "Guia",
+	"gui.leftpage0": "Super test,",
+	"gui.leftpage0.1": "mas grande",
+	"gui.leftpage0.2": "que el",
+	"gui.leftpage0.3": "anterior test.",
+	
+	//Music Disc
+	"item.tmod.miku_tell_world_disc": "Disco de musica",
+	"item.tmod.miku_tell_world_disc.desc": "Hatsune Miku - Dile a tu mundo",
+	"item.miku_tell_world_disc.sub": "Miku Disc",
+	
+	//KeyBinding
+	"key.category.tmod": "Tmod Atajos",
+	"key.tmod.change_mode_key": "Cambiar modo maquina"
+}

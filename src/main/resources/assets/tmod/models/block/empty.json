@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"1": "tmod:blocks/texture1",
+		"3": "tmod:blocks/texture2",
+		"4": "tmod:blocks/texture3",
+		"particle": "block/gray_concrete_powder"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, -0.25, 0],
+			"translation": [0, -2.25, 2],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, -0.25, 0],
+			"translation": [0, -2.25, 2],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, -1.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -45, 0],
+			"translation": [0, -1.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [30, -145, 0],
+			"translation": [-2.25, 2.25, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [0, 180, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, 7]
+		}
+	}
+}

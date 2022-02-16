@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T ",
+        "SCS",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal_block"
+        },
+        "T": {
+            "item": "tmod:small_glass"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "C": {
+            "item": "tmod:dust_flux"
+        }
+    },
+    "result": {
+        "item": "tmod:energydispenser_block",
+        "count": 1
+    }
+}

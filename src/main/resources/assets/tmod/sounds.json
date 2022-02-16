@@ -1,0 +1,12 @@
+{
+	"item.miku_tell_world_sound": {
+		"category": "item",
+		"subtitle": "item.miku_tell_world_disc.sub",
+		"sounds": [
+			{
+				"name": "tmod:item/miku_tell_world_sound",
+				"stream": true
+			}
+		]
+	}
+}

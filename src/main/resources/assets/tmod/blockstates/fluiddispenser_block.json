@@ -1,0 +1,28 @@
+{
+  "multipart": [
+  	{   "when": { "facing": "north", "extract": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_up", "uvlock": false }
+    },
+    {	"when": { "facing": "north", "deposit": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_down", "uvlock": false }
+    },
+    {	"when": { "facing": "south", "extract": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_up", "y": 180, "uvlock": false }
+    },
+    {	"when": { "facing": "south", "deposit": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_down", "y": 180, "uvlock": false }
+    },
+    {	"when": { "facing": "west", "extract": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_up", "y": 270, "uvlock": false }
+    },
+    {	"when": { "facing": "west", "deposit": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_down", "y": 270, "uvlock": false }
+    },
+    {	"when": { "facing": "east", "extract": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_up", "y": 90, "uvlock": false }
+    },
+    {	"when": { "facing": "east", "deposit": "true" },
+        "apply": { "model": "tmod:block/fluiddispenser_block_arrow_down", "y": 90, "uvlock": false }
+    }
+  ]
+}

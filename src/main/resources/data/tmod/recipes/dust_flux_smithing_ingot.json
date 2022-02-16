@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "tmod:dust_flux"
+    },
+    "addition": {
+        "item": "minecraft:stone"
+    },
+    "result": {
+        "item": "tmod:ingot_flux",
+        "count": 3
+    }
+}

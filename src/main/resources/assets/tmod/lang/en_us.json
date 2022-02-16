@@ -1,0 +1,50 @@
+{
+	//Fluids
+	"item.tmod.flux_fluid_bucket": "Flux Bucket",
+	
+	//Blocks
+	"block.tmod.test_block": "Test Block",
+	"block.tmod.fluidtank_block": "Fluid Tank",
+	"block.tmod.energydispenser_block": "Energy Dispenser",
+	"block.tmod.cauldron_block": "Magic Cauldron",
+	"block.tmod.energymachinecharger_block": "Machine Cable",
+	"block.tmod.fluiddispenser_block": "Fluid Dispenser",
+	"block.tmod.plantenergizer_block": "Plant Energizer",
+	"block.tmod.fluidjar_block": "Fluid Jar",
+	"block.tmod.creativeenergydispenser_block": "Creative Energy Dispenser",
+	
+	//Ore Blocks
+	"block.tmod.flux_ore": "Flux Ore",
+	
+	//Flowers
+	"block.tmod.flux_flower": "Flux Flower",
+	
+	//Items
+	"item.tmod.testitem": "Test Item",
+	"item.tmod.information_tablet": "Information Tablet",
+	"item.tmod.magic_stick": "Magic Wand",
+	"item.tmod.small_glass": "Small Glass",
+	"item.tmod.mortarnpestle": "Mortar & Pestle",
+	
+	//Ores
+	"item.tmod.ingot_flux": "Flux Ingot",
+	
+	//Dust
+	"item.tmod.dust_flux": "Flux Dust",
+	
+	//Tabs
+	"itemGroup.testTab": "TestMod",
+	
+	//Gui
+	"gui.title": "Guide",
+	"gui.leftpage0": "Super test, more bigger than the other test.",
+	
+	//Music Disc
+	"item.tmod.miku_tell_world_disc": "Music Disc",
+	"item.tmod.miku_tell_world_disc.desc": "Hatsune Miku - Tell Your World",
+	"item.miku_tell_world_disc.sub": "Miku Disc",
+	
+	//KeyBinding
+	"key.category.tmod": "Tmod Keys",
+	"key.tmod.change_mode_key": "Change Machine Mode"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "scs",
+    "sgs",
+    "sss"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:stone"
+    },
+    "c":
+    {
+      "item": "minecraft:coal_block"
+    },
+    "g":
+    {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result":
+  {
+    "item": "tmod:fluidtank_block",
+    "count": 1
+  }
+}

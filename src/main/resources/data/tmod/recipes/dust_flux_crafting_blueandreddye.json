@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:blue_dye"
+        },
+        {
+            "item": "minecraft:red_dye"
+        },
+        {
+            "item": "tmod:mortarnpestle"
+        }
+    ],
+    "result": {
+        "item": "tmod:dust_flux",
+        "count": 1
+    },
+    "group": "dustfluxcraft"
+}

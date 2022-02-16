@@ -1,0 +1,25 @@
+{
+  "multipart": [
+        {   "when": { "north": "false" },
+            "apply": { "model": "tmod:block/fluidtankcharger_block", "uvlock": false }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "tmod:block/fluidtankcharger_block_connector", "y": 90, "uvlock": false }
+        },
+        {   "when": { "east": "false" },
+            "apply": { "model": "tmod:block/fluidtankcharger_block_unconnected", "y": 90, "uvlock": false }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "tmod:block/fluidtankcharger_block_connector", "y": 180, "uvlock": false }
+        },
+        {   "when": { "south": "false" },
+            "apply": { "model": "tmod:block/fluidtankcharger_block_unconnected", "y": 180, "uvlock": false }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "tmod:block/fluidtankcharger_block_connector", "y": 270, "uvlock": false }
+        },
+        {   "when": { "west": "false" },
+            "apply": { "model": "tmod:block/fluidtankcharger_block_unconnected", "y": 270, "uvlock": false }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tmod:ingot_flux"
+        },
+        {
+            "item": "minecraft:book"
+        },
+        {
+            "item": "minecraft:paper"
+        }
+    ],
+    "result": {
+        "item": "tmod:information_tablet",
+        "count": 1
+    }
+}

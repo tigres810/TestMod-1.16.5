@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "model": "tmod:obj/crystal.obj",
+  "ambientToFullbright": false,
+  "diffuseLighting": false,
+  "textures": {
+    "texture0": "forge:white"
+  }
+}

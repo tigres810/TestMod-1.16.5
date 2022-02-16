@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "G G",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    "result": {
+        "item": "tmod:fluidjar_block",
+        "count": 1
+    }
+}

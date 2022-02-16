@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "tmod:mortarnpestle"
+        }
+    ],
+    "result": {
+        "item": "tmod:dust_flux",
+        "count": 1
+    },
+    "group": "dustfluxcraft"
+}
