@@ -1,6 +1,6 @@
 {
   "loader": "forge:obj",
-  "model": "tmod:obj/crystal.obj",
+  "model": "tmod:models/obj/crystal.obj",
   "ambientToFullbright": false,
   "diffuseLighting": false,
   "textures": {
